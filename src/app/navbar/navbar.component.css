@@ -1,0 +1,13 @@
+.active {
+    border-bottom: 2px solid #7c3aed;
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    transition: border-bottom 0.3s ease, color 0.3s ease, transform 0.3s ease;
+    -webkit-transition: border-bottom 0.3s ease, color 0.3s ease, transform 0.3s ease;
+    -moz-transition: border-bottom 0.3s ease, color 0.3s ease, transform 0.3s ease;
+    -ms-transition: border-bottom 0.3s ease, color 0.3s ease, transform 0.3s ease;
+    -o-transition: border-bottom 0.3s ease, color 0.3s ease, transform 0.3s ease;
+}
